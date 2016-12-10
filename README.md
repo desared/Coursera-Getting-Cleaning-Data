@@ -2,7 +2,7 @@
 
 ## Files in this repository
 * README.md -- this file
-* CodeBook.md -- codebook describing variables, the data and transformations
+* CodeBook.md -- codebook describing variables and the data 
 * run_analysis.R -- R code
 
 ## Purposes of this project
